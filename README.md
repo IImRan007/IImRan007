@@ -52,7 +52,7 @@
 <a>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=IImRan007&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a>
-  <img width="48%" src="https://github-readme-stats2-killshotxd.vercel.app//api?username=IImRan007&repo=github-readme-stats&hide_border=true&hide=contribs,prs,issues&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats2-killshotxd.vercel.app//api?username=IImRan007&repo=github-readme-stats&hide_border=true&hide=issues&show_icons=true&theme=radical" />
 </a>
 </p>
 <br>
