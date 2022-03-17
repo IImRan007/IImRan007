@@ -10,9 +10,9 @@
 
 ### Connect with me 🧑🏻‍:
 
-<a href="https://www.facebook.com/profile.php?id=100007733971393" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohd-hassan-11707a223/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/ihassanansari/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/mohd.imranansari.7" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-E34F26?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohd-imran-0b35001b7/" target="blank"><img align="center" src="https://img.shields.io/badge/Linkedin-1572B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/iimran_007/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 ### Languages and Tools 🧩🚀:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -31,7 +31,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/MaterialUI-1572B67?style=for-the-badge&logo=mui&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/MaterialUI-1572B67?style=for-the-badge&logo=mui&logoColor=white)
+
 <!-- ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 
