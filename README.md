@@ -2,8 +2,8 @@
 # Hey Everyone! I'm [Mohd Imran!](https://github.com/IImRan007) <img src="https://github.com/killshotxd/svgIcons/blob/main/Hi.gif" width="25px">
 <br><br>
 <a><img align="right" src="https://github.com/killshotxd/svgIcons/blob/main/code.gif" width="40%" /></a>
-- 👨‍🎓 I’m B.Tech CSE Student
-- 🔭 I’m currently working on HTML, CSS, BootStrap, Bulma Css, Sass, MatterJs and Js
+- 👨‍🎓 Working professional with expertise in developing Google Apps Script based automation and web development.
+- 🔭 I’m currently working on HTML, CSS, BootStrap, JavaScript, jQuery, Apps Script, Tailwind CSS, and ReactJs.
 - 🌱 I’m currently learning Web Development
 - ⚡ Future MERN stack Developer
 ###
@@ -63,9 +63,9 @@
 
 ![Imran's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IImRan007&hide_border=true&theme=redical)
 
-<p align="center">
+<!-- <p align="center">
    <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
+</p> -->
 
 -->
 
