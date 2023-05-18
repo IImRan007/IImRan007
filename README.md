@@ -61,15 +61,6 @@
 ## Top languages 🔝
 <img alt="languages" src="https://github-readme-stats-killshotxd.vercel.app/api/top-langs/?username=IImRan007&layout=compact&hide_border=true&theme=radical" />
 
-<!-- ![Imran's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=IImRan007&hide_border=true&theme=redical) -->
-
-<!-- <p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p> -->
-
--->
-
-
 <!--
 **IImRan007/IImRan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
